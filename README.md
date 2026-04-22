@@ -80,7 +80,7 @@ One of the main purposes of this platform is to support mixed-actuation experime
       <td align="center" width="33%">
         <img src="resourses/servo_module.png" width="240" alt="Servo axis module"/><br><br>
         <b>Axes 1–3</b><br>
-        100 W servo motors over EtherCAT
+        100 W servo motors
       </td>
       <td align="center" width="33%">
         <img src="resourses/stepper_module.png" width="240" alt="Stepper axis module"/><br><br>
